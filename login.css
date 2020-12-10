@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(206, 198, 198);
+}
+.container{
+    height: 100%;
+    align-content: center;
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+}
+.card{
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 60vh;
+    background-color: rgb(151, 150, 150);
+}
+.card-header{
+    height: 13vh;
+}
+.header-icon span{
+    font-size: 10vh;
+    color: #FFC312;
+    margin-left: 3vh;
+}
+.header-icon span:hover{
+    color:rgb(130, 130, 219);
+    cursor: pointer;
+}
+.header-icon span{
+    position: relative;
+    top: -15vh;
+}
+h3{
+    color: white;
+}
+.icon1{
+    width: 5vh;
+    color: black;
+    background-color: rgb(186, 216, 216);
+}
+.Reminder{
+    color: white;
+    font-size: 3vh;
+}
+.checkbox {
+    margin-left: 2vh;
+    margin-right: 2vh;
+    width: 3vh;
+    height: 3vh;
+}
